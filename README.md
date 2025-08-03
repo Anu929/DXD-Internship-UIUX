@@ -21,10 +21,10 @@ A travel-focused cultural platform for European tourists interested in Indian ex
 
 | Page / Section       | Preview                            |
 |----------------------|-------------------------------------|
-| Homepage             | ![Desi Discover](https://www.figma.com/design/2ItWKWNBDGl2Dw0q2GUych/Desi-discover?node-id=201-116&t=P5j5lFlmjnamwjOu-1) |
-| Masters Page         | ![Masters Page](https://www.figma.com/design/KnsnLtwi66Lt2xmWlwHqGP/Master-s-Page?node-id=0-1&t=1kYAjzQNwYuamYBV-1) |
-| CTA Section (Student & Master) | ![CTA](https://www.figma.com/design/aJWHtmWk5BlAugeGVG6EMj/CTA-Section-for--Student-and-master?node-id=7-23&t=P7f0scAfkj8j09lR-1) |
-| Students Page        | ![Students Page](https://www.figma.com/design/5KOWG7Ga4lBaMwNPWx2qBb/landing-page-for-students?node-id=0-1&t=bDd7bF5npCQoKIOb-1) |
+| Homepage             | [View Full Site Design (figma)] (https://www.figma.com/design/2ItWKWNBDGl2Dw0q2GUych/Desi-discover?node-id=201-116&t=P5j5lFlmjnamwjOu-1) |
+| Masters Page         |  [View Full Site Design (figma)](https://www.figma.com/design/KnsnLtwi66Lt2xmWlwHqGP/Master-s-Page?node-id=0-1&t=1kYAjzQNwYuamYBV-1) |
+| CTA Section (Student & Master) |[View Full Site Design (figma)] (https://www.figma.com/design/aJWHtmWk5BlAugeGVG6EMj/CTA-Section-for--Student-and-master?node-id=7-23&t=P7f0scAfkj8j09lR-1) |
+| Students Page        |[View Full Site Design (figma)] (https://www.figma.com/design/5KOWG7Ga4lBaMwNPWx2qBb/landing-page-for-students?node-id=0-1&t=bDd7bF5npCQoKIOb-1) |
 
 ✅ **Implemented:**  
 - Masters Page
