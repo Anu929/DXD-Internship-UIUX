@@ -21,13 +21,14 @@ A travel-focused cultural platform for European tourists interested in Indian ex
 
 | Page / Section       | Preview                            |
 |----------------------|-------------------------------------|
-| Homepage             | ![Desi Discover](./desi-discover/Desi%20discover.png) |
-| Masters Page         | ![Masters Page](./masterscorner/Masters%27%20Page.png) |
-| CTA Section (Student & Master) | ![CTA](./masterscorner/CTA%20Section%20for%20%20Student%20and%20master.png) |
-| Students Page        | ![Students Page](./masterscorner/Students%20page.png) |
+| Homepage             | ![Desi Discover](https://www.figma.com/design/2ItWKWNBDGl2Dw0q2GUych/Desi-discover?node-id=201-116&t=P5j5lFlmjnamwjOu-1) |
+| Masters Page         | ![Masters Page](https://www.figma.com/design/KnsnLtwi66Lt2xmWlwHqGP/Master-s-Page?node-id=0-1&t=1kYAjzQNwYuamYBV-1) |
+| CTA Section (Student & Master) | ![CTA](https://www.figma.com/design/aJWHtmWk5BlAugeGVG6EMj/CTA-Section-for--Student-and-master?node-id=7-23&t=P7f0scAfkj8j09lR-1) |
+| Students Page        | ![Students Page](https://www.figma.com/design/5KOWG7Ga4lBaMwNPWx2qBb/landing-page-for-students?node-id=0-1&t=bDd7bF5npCQoKIOb-1) |
 
 ✅ **Implemented:**  
-- Masters Page  
+- Masters Page
+- Students Page
 - CTA Section (Student & Master)
 
 ---
@@ -36,7 +37,7 @@ A travel-focused cultural platform for European tourists interested in Indian ex
 
 A business and marketing solution provider for dentists and clinics.
 
-📄 [View Full Site Design (PDF)](./dental-magnate/Dental%20Magnate.pdf)
+📄 [View Full Site Design (figma)](https://www.figma.com/design/Qa5dTTJj2CiAOJck5Bmv1m/Dental-Magnate?node-id=0-1&t=Vp2Dy0bVPkNYZeO4-1)
 
 **Key Highlights:**
 - Designed homepage sections including services, testimonials, call-to-action, and contact form.
