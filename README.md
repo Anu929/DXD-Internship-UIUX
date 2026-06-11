@@ -69,7 +69,7 @@ A business and marketing solution provider for dentists and clinics.
 **Anusuya Veeraragavan**  
 🎓 UI/UX Designer | Web Developer  
 📧 [anusuyaveeraragavan29@gmail.com]  
-🌐 [https://www.linkedin.com/in/anusuya-v-53930b255/]  
+🌐 [https://www.linkedin.com/in/anusuya-veeraragavan]  
 
 ---
 
